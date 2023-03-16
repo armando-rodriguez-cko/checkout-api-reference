@@ -6,10 +6,10 @@
 | 2023/04/13 | Add `authentication_status_reason` to `3ds` object in the GET payment details response                                  |
 | 2023/04/04 | Update conflict response for onboard sub entity operation to include ID                                                 |
 | 2023/04/03 | Updated `payment_ip` to support IPv6 addresses                                                                          |
-| 2023/03/28 | Increased NAS `recipient.account_number` max length from 10 to 34                                                       |
 | 2023/04/03 | Added `if-match` header to `PlatformsPaymentInstrumentUpdate` for Integrated Platforms                                  |
 | 2023/04/02 | Added `card_token` object to `PlatformsPaymentInstrument` for Integrated Platforms                                      |
 | 2023/03/30 | Updated Bank Payouts docs hyperlink                                                                                     |
+| 2023/03/28 | Increased NAS `recipient.account_number` max length from 10 to 34                                                       |
 | 2023/03/23 | Remove `marketplace` from Hosted Payments and Payment Links                                                             |
 | 2023/03/22 | Adds API documentation for card issuing                                                                                 |
 | 2023/03/21 | Modified `Standalone` API path to correctly point to `sessions` for backward compatible reasons                         |
